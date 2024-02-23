@@ -33,3 +33,10 @@
 1) Created a Decission tree (0.25% Accuracy).
 2) Used NLP (Term Frequency , IDF). Label Encoder error yet to be solved.
 ```
+
+## 23-02-2024 :
+
+```
+- Label Encoder error solved.
+- PowerBI dashboard Created.
+```
