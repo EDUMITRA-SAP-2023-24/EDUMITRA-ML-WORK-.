@@ -40,3 +40,14 @@
 - Label Encoder error solved.
 - PowerBI dashboard Created.
 ```
+
+## 24-02-2024 : 
+
+```
+FLask Integrated with the Python Decission Tree .
+
+```
+
+Outputs: 
+
+![image](https://github.com/EDUMITRA-SAP-2023-24/EDUMITRA-ML-WORK-./assets/77969007/abcb35f8-e57e-4e66-bc8f-5dadb2f6f9fc)
